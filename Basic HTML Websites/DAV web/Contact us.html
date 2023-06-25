@@ -1,0 +1,136 @@
+<html>
+<head>
+</title>
+
+<link rel="stylesheet" type="text/css" href="kk.css"> 
+<style type="text/css">
+input[type=text] ,input[type=password]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  border: 0;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+input[type=text],input[type=password]{
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+</style>
+
+<script>
+function form()
+{
+uname=document.frmlgn.uname;
+pd=document.frmlgn.password;
+emailid=document.frmlgn.emailid;
+address=document.frmlgn.address;
+city=document.frmlgn.city;
+mobile=document.frmlgn.mobile;
+if(uname.value=="")
+{
+alert("your username is empty");
+uname.focus();
+return false;
+}
+if(emailid.value=="")
+{
+alert("your emailid is empty");
+emailid.focus();
+return false;
+}
+if(emailid.value.indexOf("@")=="-1" || emailid.value.indexOf(".")=="-1")
+{
+alert("please enter your emailid in correct format");
+emailid.focus();
+return false;
+}
+if(pd.value.length<8)
+{
+alert("please enter atleast six character of password");
+pd.focus();
+return false;
+}
+if(city.value=="")
+{
+alert("your city is empty");
+city.focus();
+return false;
+}
+if(address.value=="")
+{
+alert("your address is empty");
+address.focus();
+return false;
+}
+if(mobile.value.length<10)
+{
+alert("please enter atleast ten character of mobile No.");
+mobile.focus();
+return false;
+}
+return true;
+}
+
+</script>
+
+</head>
+<body bgcolor="skyblue">
+<center>
+<div class="F"> <img src="logo1.jpg" style="float:;width:410;height:200;"></div>
+<hr>
+
+<div class="home"> 
+<a href="home.html"> Home |</a>
+<a href="sdlog.html">| Student Login |</a>
+<a href="mo.html">| Mission & Objectives |</a>
+<a href="library.html">| library |</a>
+<a href="pp.html">| Prospectus |</a>
+<a href="about us.html">| About us </a>
+<br>
+<hr>
+
+</div>
+
+<form name="frmlgn" onsubmit="return form()"  action="data.html" >
+<fieldset>   
+<table style="font-size:145%;"> 
+<legend><h1 style="font-family:MS Reference Sans Serif;">Contact Us :</h1>
+<tr><td>*Name: </td> <td><input type="text" size="30" name="uname"></td></tr>
+<tr><td>*Class: </td> <td><input type="text" size="30" name="uname"></td></tr>
+
+<tr><td>*Email id: </td> <td><input type="text" size="30" name="emailid"><td>
+<tr><td>*Password:  </td> <td><input type="Password" size="30" name="password"></td></tr>
+<tr><td>*Address :  </td> <td> <input type="text" size="30" name="address"></td></tr>
+<tr><td>*Pincode: </td> <td><input type="text" size="30" name="uname"></td></tr>
+<tr><td>*Nationality: </td> <td><input type="text" size="30" name="uname"></td></tr>
+
+<tr><td>*City :     </td> <td> <input type="text" size="30" name="city"></td></tr>
+<tr><td>*Gender :</td>
+<td><input type="checkbox" name="Checkbox">Male</td>
+<td><input type="checkbox" name="Checkbox">female</td>
+</tr>
+<tr><td>*Mobile No. :</td> <td><input type="text" size="30" name="mobile"></td></tr>
+<tr><td>*Comment:  </td> <td><textarea cols="28" rows="10"></textarea></td></tr>
+<tr><td><input type="submit" value="submit"  onclick="form()"></td>
+<td><input type="reset" value="reset"></td></tr>
+
+</table><br>
+</form>
+</fieldset>
+<hr>
+<div class="f"> <img src="logo2.jpg" width=120 height=170 align="center"></div>
+© 2019 DAV College Chandigarh - All rights reserved to kuldeep
+<hr>
+</center>
+</body>
+</html>

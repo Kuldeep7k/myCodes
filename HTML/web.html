@@ -1,0 +1,162 @@
+<html>
+<head>
+<title>navgation</title>
+<script>
+<!--
+function test()
+{
+	uname = document.frmlogin.user;
+	pd = document.frmlogin.pwd;
+	emailid = document.frmlogin.email;
+	if(uname.value == "")
+	{
+		alert("Please enter Username");
+		uname.focus ();
+		return fasle;
+	}
+  if(pd.value.length <6)
+  {
+	  alert("Please enter atleast 6 characters for Password");
+	  pd.focus ();
+	  return false;
+  }
+  if(emailid.value == "")
+  {
+	  alert("Please enter Email");
+	  emailid.focus ();
+	  return false;
+  }
+  if(emailid.value.indexOf("@") == "-1" && emailid.value.indexOf(".") == "-1" )
+  {
+	  alert("Please enter email is Correct Format");
+	  emailid.focus ();
+	  return false;
+  }
+  return true;
+}
+</script>
+<style>
+*{ margin:0px;
+padding:0px;}
+#d
+{height:200px;
+width:1000px;
+background-color:#770705;
+margin:auto;}
+#d h1{color:#fff;
+font-family:"Edwardian Script ITC",cursive;
+font-size:104px;
+padding-top:50px;
+padding-right:300px;float:right;
+
+
+}
+#d img{height:200px;
+width:200px;
+margin-left:30px;}
+ul{
+list-style-type:none;
+padding:0;
+overflow:hidden;
+margin:auto;
+margin-top:10px;
+margin-bottom:10px;
+width:1000px;
+opacity:0.7;filter:alpha(opacity=70);
+}
+a:link, a:visited{
+display:block;
+font-size:24px;
+front-weight:bold;
+color:#ffffff;
+background-color:#770705;
+width:325px;
+height:40px;
+text-align:center;
+padding:4px;
+text-transform:uppercase;
+text-decoration:none;
+line-height:40px;
+}
+a:hover,a:active{
+background-color:#EDF5E1;
+color:#05386B;}
+li{
+float:left;margin:auto;
+}
+.d1{height:365px;
+  width:1000px;
+  background-color:#770705;
+  padding-top:50px;
+  margin:0px auto;}
+   
+  .d2{height:300px;
+  width:500px;
+  background-color:#fff;
+  float:left;
+  margin-left:30px;
+  padding:0px;}
+   .d2 marquee img{height:300px;
+	   width:500px;}
+
+.d3{height:300px;
+ width:400px;
+ background-image:url(88.jpg);
+ float:right;
+ margin-right:30px;
+ text-tranform:capitialize;
+ font-size:26px;
+ color:#303;}
+ .d3 h2{font-size:36px;
+     margin-left:30px;font-color:white;
+	 margin-top:50px; color:white;}    
+ .d3 table{font-size:18px;
+ margin-left:50px;color:white;}
+</style>
+</head>
+<body background="original.jpg">
+<div id="d">
+<img src="viper.png">
+<h1>Rose Festival</h1>
+</div>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Contact</a></li>
+<li><a href="#">About us</a></li>
+</ul>
+<div class="d1">
+<div class="d2">
+<marquee>
+<img src="logo.jpg" />
+<img src="logo2.jpg">
+<img src="logo3.jpg">
+<img src="logo4.jpg">
+</marquee>
+</div>
+<div class="d3">
+<H2>Personal Information</H2>
+<form name="frmlogin" onSubmit="return test()">
+<table>
+<tr>
+<td>UserName</td><td><input type="text" name="user"/></td></tr>
+<tr><td>Password</td><td><input type="password"  name="pwd"/></td></tr>
+<tr><td>Email id</td><td><input type="text" name="email"/></td></tr>
+<tr colspan="2">
+<td>Gender</td><td>Male&nbsp;<input type="radio" name="gender">&nbsp;Female&nbsp;
+<input type="radio" name="gender"></td>
+</tr>
+<tr>
+<td>Habbits</td><td>Reading&nbsp;<input type="checkbox">&nbsp;Playing&nbsp;
+<input type="checkbox"></td>
+</tr>
+<br>
+<tr>
+<td colspan="2">
+<input type="submit" value="Submit" /><input type="reset" value="Reset" /></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+</body>
+</html>

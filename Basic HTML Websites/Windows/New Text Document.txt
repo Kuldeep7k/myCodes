@@ -1,0 +1,98 @@
+
+input[type=text], select {
+  width: 100%;
+  padding: 8px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=button]
+{
+  background-color: Blue;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+input[type=submit], input[type=reset] {
+  background-color: Green;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+h1 {
+  color: red;
+  font-family :Arial
+}
+	
+.outmain {
+	padding: 10px 100px 10px 100px;
+	
+}
+.main {
+		background-color:;
+
+}
+
+.Header{
+	text-align:center;
+	background-color:white;
+}
+.Header a
+{	
+color:red;
+font-family:Lucida Sans Unicode;
+font-size:27px;
+text-decoration:none;
+border-background:#00FFFF;
+}
+.Header a:hover
+{
+color:#4C787E;
+text-decoration:none;
+}
+
+.F{
+	background-color:white;
+}
+
+.Content {
+	
+	padding:2% 2% 2% 2%;
+	font-family:tahoma,arial;
+	text-align:justify;
+	table-align:center;
+	font-size: 15px;
+	background-color:white;
+	
+}
+
+.footer {
+	background-color:white;
+	text-align:center;
+	padding:1% 1% 1% 1%;
+}

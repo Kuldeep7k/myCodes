@@ -1,0 +1,13 @@
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form3.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form4.resources

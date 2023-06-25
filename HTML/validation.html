@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>validation</title>
+<script>
+   function validation()
+{
+	var a= document.data.name;
+	if(a.value =="")
+	{
+	alert("Enter First Name");
+	return false;
+	} 
+	
+	var d= document.data.vname;
+	if(d.value =="")
+	{
+	alert("Enter Last Name");
+	return false;
+} 
+
+var e= document.data.email;
+	if(e.value=="")
+{
+alert("Enter Email");
+return false;
+}
+	if(e.value.indexOf("@")=="-1" &&  e.value.indexOf("." )=="-1")
+	{
+	alert("enter correct email");
+return false;
+	} 
+
+	var p= document.data.pname;
+	if(p.value.length<8)
+	{
+	alert("Enter password  8 characters");
+	 return false;
+	} 
+	
+}
+</script>
+<body>
+<h2>Form </h2>
+<form name="data" onsubmit=" validation()">
+<table><tr><td>
+First Name</td><td><input type="text" value=""  name="name"></td></tr>
+<tr><td>Last Name</td><td><input type="text" value=""  name="vname"></td></tr>
+<tr><td>Email</td><td><input type="email" value=""  name="email"></td></tr>
+<tr><td>Password</td><td><input type="password" value=""  name="pname"></td></tr>
+ <tr><td><input type ="submit" value =" submit" name = "submit"></td></tr>
+</table>
+</form>
+</body>
+</html>

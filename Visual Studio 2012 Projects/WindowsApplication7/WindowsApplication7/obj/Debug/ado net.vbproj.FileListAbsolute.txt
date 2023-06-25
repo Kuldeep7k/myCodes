@@ -1,0 +1,11 @@
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\ado net.vbproj.GenerateResource.Cache

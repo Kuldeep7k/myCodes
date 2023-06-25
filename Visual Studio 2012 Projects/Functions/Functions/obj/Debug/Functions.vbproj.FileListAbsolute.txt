@@ -1,0 +1,14 @@
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\bin\Debug\Functions.exe.config
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\bin\Debug\Functions.exe
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\bin\Debug\Functions.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\bin\Debug\Functions.xml
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Form1.resources
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Resources.resources
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.vbproj.GenerateResource.Cache
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.exe
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.xml
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Function1.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Form2.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Form3.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\Functions\Functions\obj\Debug\Functions.Form4.resources

@@ -1,0 +1,12 @@
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\bin\Debug\Subroutine all.exe.config
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\bin\Debug\Subroutine all.exe
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\bin\Debug\Subroutine all.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\bin\Debug\Subroutine all.xml
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine_all.Form1.resources
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine_all.Resources.resources
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine all.vbproj.GenerateResource.Cache
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine all.exe
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine all.xml
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine all.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine_all.Form2.resources
+c:\users\kulde\documents\visual studio 2012\Projects\Subroutine all\Subroutine all\obj\Debug\Subroutine_all.Form3.resources

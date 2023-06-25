@@ -1,0 +1,16 @@
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\bin\Debug\CONTROL structure.exe.config
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\bin\Debug\CONTROL structure.exe
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\bin\Debug\CONTROL structure.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\bin\Debug\CONTROL structure.xml
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form1.resources
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Resources.resources
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL structure.vbproj.GenerateResource.Cache
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL structure.exe
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL structure.xml
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL structure.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form2.resources
+c:\users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form3.resources
+C:\Users\kulde\Documents\Visual Studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form4.resources
+C:\Users\kulde\Documents\Visual Studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form5.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form6.resources
+C:\Users\kulde\documents\visual studio 2012\Projects\CONTROL structure\CONTROL structure\obj\Debug\CONTROL_structure.Form7.resources

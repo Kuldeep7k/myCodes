@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>contact us</title>
+<style type="text/css">
+.home a
+{
+color:yellow;
+font-family:Lucida Sans Unicode;
+font-size:27px;
+text-decoration:none;
+border-background:#00FFFF;
+}
+.home a:hover
+{
+color:#4C787E;
+text-decoration:none;
+
+}
+</style>
+<script>
+function form()
+{
+uname=document.frmlgn.uname;
+pd=document.frmlgn.pd;
+emailid=document.frmlgn.emailid;
+address=document.frmlgn.address;
+city=document.frmlgn.city;
+mobile=document.frmlgn.mobile;
+if(uname.value=="")
+{
+alert("your username is empty");
+uname.focus();
+return false;
+}
+if(emailid.value=="")
+{
+alert("your emailid is empty");
+emailid.focus();
+return false;
+}
+if(emailid.value.indexOf("@")=="-1" || emailid.value.indexOf(".")=="-1")
+{
+alert("please enter your emailid in correct format");
+emailid.focus();
+return false;
+}
+if(pd.value.length<6)
+{
+alert("please enter atleast six character of password");
+pd.focus();
+return false;
+}
+if(city.value=="")
+{
+alert("your city is empty");
+city.focus();
+return false;
+}
+if(address.value=="")
+{
+alert("your address is empty");
+address.focus();
+return false;
+}
+if(mobile.value.length<10)
+{
+alert("please enter atleast ten character of mobile No.");
+mobile.focus();
+return false;
+}
+return true;
+}
+
+</script>
+
+</head>
+<body bgcolor="skyblue">
+<center>
+<div class="F"> <img src="250px-Windows_darkblue_2012.png" lenght="400" width="333"> </h1></div>
+<hr>
+<div class="home"> 
+<a href="home.html"> Home |</a>
+<a href="contact us.html"> Contact us |</a>
+<a href="about us.html"> About us |</a>
+<a href="COW.html">Categories of Windows |</a><br><br>
+</div>
+<hr>
+<form name="frmlgn" onsubmit="return form()"  action="abc.html" >
+<fieldset>   
+<table> 
+<legend><h1>Contact us:</h1></legend>
+<tr><td>*Name: </td> <td><input type="text" size="30" name="uname"></td></tr>
+<tr><td>*Email id: </td> <td><input type="text" size="30" name="emailid"><td>
+<tr><td>*Password:  </td> <td><input type="password" size="30" name="pd"></td></tr>
+<tr><td>*Address :  </td> <td> <input type="text" size="30" name="address"></td></tr>
+<tr><td>*City :     </td> <td> <input type="text" size="30" name="city"></td></tr>
+<tr><td>*Mobile No. :</td> <td><input type="text" size="30" name="mobile"></td></tr>
+<tr><td>*Subject:  </td> <td><textarea cols="28" rows="10"></textarea></td></tr>
+<tr><td><input type="submit" value="submit"  onclick="form()"></td></tr>
+<tr><td><input type="reset" value="reset"></td></tr>
+</table></fieldset>
+</form>
+<hr>
+<div class="F"> <img src="250px-Windows_darkblue_2012.png" lenght="400" width="333"> </h1></div>
+Copyright 2018 (c)
+<hr>
+</body>
+</html>

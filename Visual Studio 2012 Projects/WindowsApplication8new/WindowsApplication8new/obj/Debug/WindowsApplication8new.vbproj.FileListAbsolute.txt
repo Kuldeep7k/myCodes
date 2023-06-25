@@ -1,0 +1,13 @@
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\bin\Debug\WindowsApplication8new.exe.config
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\bin\Debug\WindowsApplication8new.exe
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\bin\Debug\WindowsApplication8new.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\bin\Debug\WindowsApplication8new.xml
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.Resources.resources
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.Ration.resources
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.vbproj.GenerateResource.Cache
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.exe
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.xml
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.pdb
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\bin\Debug\Database2.accdb
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.Form1.resources
+c:\users\kulde\documents\visual studio 2012\Projects\WindowsApplication8new\WindowsApplication8new\obj\Debug\WindowsApplication8new.Form2.resources

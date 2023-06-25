@@ -1,0 +1,127 @@
+.A
+{
+margin:3px;
+}
+
+.F
+{
+color:red;
+font-size:55px;
+font-family:MS Reference Sans Serif;
+}
+
+.home a
+{
+float:center;
+color:red;
+font-family:Verdana;
+font-size:27px;
+text-decoration:none;
+border-background:#00FFFF;
+}
+
+
+.home a:hover
+{
+color:yellow;
+text-decoration:none;
+}
+
+.d1
+{
+height:310; 
+} 
+
+.d2
+{
+height:310;
+  width:750;
+  float:left;
+margin-left:6px
+margin-top:10px;
+margin-bottom:10px;
+font-family:Microsoft Sans Serif;
+}
+
+.d3
+{
+height:310;
+ width:480;
+ float:right;
+ margin-left:5px;
+ font-size:20;
+font-family:Microsoft Sans Serif;
+ }
+
+.d4
+{  
+font-family:Times New Roman;
+height:190;
+margin-top:5px;
+font-size:21px;
+}
+
+.d5
+{
+font-family:Microsoft Sans Serif;
+height:210;
+margin-top:10px;
+margin-left:30px;
+}
+
+.d6
+{
+height:210;
+  width:650;
+font-size:16;
+  float:left;
+text-align:left;
+font-family:Microsoft Sans Serif;
+}
+
+.d7
+{
+height:210;
+ width:500;
+ float:right;
+font-size:16;
+ font-family:Microsoft Sans Serif;
+ margin-right:10px; 
+ font-size:px;
+margin-top:10px;
+}
+
+.d11
+{
+height:210;
+}
+
+.d12
+{
+height:210;
+font-family:Microsoft Sans Serif;
+  width:600;
+  float:left;
+margin-top:11px;
+text-align:left;
+}
+
+.d13
+{
+font-family:Microsoft Sans Serif;
+height:210;
+ width:610;
+ float:right;
+ text-align:right;
+ margin-right:10px; 
+ font-size:px;
+margin-top:10px;
+}
+
+.G
+{
+height:25;
+font-family:Microsoft Sans Serif;
+background-color:white;
+text-align:center;
+}

@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Form</title>
+<script>
+function form()
+{
+uname=document.frmlgn.uname;
+pd=document.frmlgn.password;
+emailid=document.frmlgn.emailid;
+address=document.frmlgn.address;
+city=document.frmlgn.city;
+mobile=document.frmlgn.mobile;
+if(uname.value=="")
+{
+alert("your username is empty");
+uname.focus();
+return false;
+}
+if(emailid.value=="")
+{
+alert("your emailid is empty");
+emailid.focus();
+return false;
+}
+if(emailid.value.indexOf("@")=="-1" || emailid.value.indexOf(".")=="-1")
+{
+alert("please enter your emailid in correct format");
+emailid.focus();
+return false;
+}
+if(pd.value.length<8)
+{
+alert("please enter atleast six character of password");
+pd.focus();
+return false;
+}
+if(city.value=="")
+{
+alert("your city is empty");
+city.focus();
+return false;
+}
+if(address.value=="")
+{
+alert("your address is empty");
+address.focus();
+return false;
+}
+if(mobile.value.length<10)
+{
+alert("please enter atleast ten character of mobile No.");
+mobile.focus();
+return false;
+}
+return true;
+}
+
+</script>
+
+</head>
+<body bgcolor="skyblue">
+
+
+
+<form name="frmlgn" onsubmit="return form()"  action="abc.html" >
+<fieldset>   
+<table> 
+<legend><h1>Form:</h1></legend>
+<tr><td>*Name: </td> <td><input type="text" size="30" name="uname"></td></tr>
+<tr><td>*Class: </td> <td><input type="text" size="30" name="uname"></td></tr>
+
+<tr><td>*Email id: </td> <td><input type="text" size="30" name="emailid"><td>
+<tr><td>*Password:  </td> <td><input type="Password" size="30" name="password"></td></tr>
+<tr><td>*Address :  </td> <td> <input type="text" size="30" name="address"></td></tr>
+<tr><td>*Pincode: </td> <td><input type="text" size="30" name="uname"></td></tr>
+<tr><td>*Nationality: </td> <td><input type="text" size="30" name="uname"></td></tr>
+
+<tr><td>*City :     </td> <td> <input type="text" size="30" name="city"></td></tr>
+<tr><td>*Gender :</td>
+<td><input type="checkbox" name="Checkbox">Male</td>
+<td><input type="checkbox" name="Checkbox">female</td>
+</tr>
+<tr><td>*Subject :</td> <td><select type="select" name="">
+<option>BCA
+<option>BSC
+<option>BBA
+<option>Btech
+</select>
+</td></tr>
+<tr><td>*Mobile No. :</td> <td><input type="text" size="30" name="mobile"></td></tr>
+<tr><td>*Comment:  </td> <td><textarea cols="28" rows="10"></textarea></td></tr>
+
+<tr><td><input type="submit" value="submit"  onclick="form()"></td></tr>
+<tr><td><input type="reset" value="reset"></td></tr>
+</table></fieldset>
+</form>
+</body>
+</html>
